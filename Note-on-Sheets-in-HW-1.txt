@@ -1,0 +1,5 @@
+Note on Sheets in HW-1
+
+What should have been Sheet 2 is Sheet 3.
+What would have been Sheet 3 is Sheet 5.
+Sheet 4 is as it should be.
