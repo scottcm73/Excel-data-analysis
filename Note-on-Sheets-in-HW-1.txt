@@ -1,4 +1,8 @@
-Note on Sheets in HW-1
+The latest files are: 	AnalysisofKickstarterCampaigns-ScottMc.docx
+			
+					 	StarterBook-ScottMc.xlsx
+			
+
 
 What should have been Sheet 2 is Sheet 3.
 What would have been Sheet 3 is Sheet 5.
